@@ -1,2 +1,3 @@
 Hello there
 ok now i will press Ctrl+Z
+adding a new line
